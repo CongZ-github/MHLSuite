@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MHLSuite</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="equipment">装备</string>
+    <string name="bead">技能珠</string>
+    <string name="necklace">护石</string>
+</resources>
